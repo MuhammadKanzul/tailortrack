@@ -1,0 +1,37 @@
+# Dependencies
+/vendor/
+/node_modules/
+
+# Environment files
+.env
+config.php
+
+# IDE files
+.idea/
+.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Upload directories
+/uploads/
+/public/uploads/
+
+# Log files
+*.log
+/logs/
+
+# Cache files
+/cache/
+
+# Composer files
+composer.phar
+composer.lock
+
+# MongoDB data directory
+/data/
+/mongodb/
+
+# Configuration files that may contain sensitive information
+config/database.php 
